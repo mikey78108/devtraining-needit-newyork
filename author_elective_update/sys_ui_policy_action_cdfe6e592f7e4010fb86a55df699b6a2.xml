@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>work_notes_list</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 13:48:17</sys_created_on>
+        <sys_id>cdfe6e592f7e4010fb86a55df699b6a2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>work_notes_list</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_cdfe6e592f7e4010fb86a55df699b6a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 13:50:35</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Make fields read only on close">3e4ba2952f7e4010fb86a55df699b62a</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>00220ba7db7940d452cec5970596190a</instance_id>
+        <instance_name>dev96529</instance_name>
+        <name>sys_ui_policy_action_cdfe6e592f7e4010fb86a55df699b6a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>true</disabled><field>work_notes_list</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-05 13:48:17</sys_created_on><sys_id>cdfe6e592f7e4010fb86a55df699b6a2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>work_notes_list</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_cdfe6e592f7e4010fb86a55df699b6a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-05 13:50:35</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Make fields read only on close">3e4ba2952f7e4010fb86a55df699b62a</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>738126147</payload_hash>
+        <record_name>work_notes_list</record_name>
+        <reverted_from/>
+        <source>a39e03412f724010fb86a55df699b657</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 13:50:35</sys_created_on>
+        <sys_id>949fa6992f7e4010fb86a55df699b64b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170159deb980000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 13:50:35</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>109fa699f77e40100eed28f7fff8574b</update_guid>
+        <update_guid_history>109fa699f77e40100eed28f7fff8574b:738126147,960f2e59057e4010aec5bcdd43aa5a0a:-1797018781</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 14:21:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>4156c909fcc94444bc4698c1c632b989</sys_id>
+        <sys_metadata>cdfe6e592f7e4010fb86a55df699b6a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>work_notes_list</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Make fields read only on close">3e4ba2952f7e4010fb86a55df699b62a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_cdfe6e592f7e4010fb86a55df699b6a2</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_cdfe6e592f7e4010fb86a55df699b6a2">949fa6992f7e4010fb86a55df699b64b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 14:21:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
