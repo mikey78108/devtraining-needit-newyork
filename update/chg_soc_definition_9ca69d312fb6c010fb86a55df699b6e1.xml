@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="chg_soc_definition">
+    <chg_soc_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <blackout_span_color>#BDC0C4</blackout_span_color>
+        <condition table="change_request">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <end_date_field>end_date</end_date_field>
+        <group_owner/>
+        <maintenance_span_color>#BDDCFC</maintenance_span_color>
+        <name>Scheduled execution of NeedIt Requests by Type</name>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <popover_left_col_fields>state,cmdb_ci,start_date,end_date</popover_left_col_fields>
+        <popover_right_col_fields>type,risk,impact,priority</popover_right_col_fields>
+        <share_groups/>
+        <share_roles/>
+        <share_users/>
+        <share_with/>
+        <show_blackout>true</show_blackout>
+        <show_maintenance>true</show_maintenance>
+        <start_date_field>start_date</start_date_field>
+        <sys_class_name>chg_soc_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 20:38:59</sys_created_on>
+        <sys_id>9ca69d312fb6c010fb86a55df699b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled execution of NeedIt Requests by Type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>chg_soc_definition_9ca69d312fb6c010fb86a55df699b6e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 20:38:59</sys_updated_on>
+        <table_name>change_request</table_name>
+    </chg_soc_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=9ca69d312fb6c010fb86a55df699b6e1"/>
+</record_update>
